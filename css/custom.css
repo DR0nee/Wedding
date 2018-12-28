@@ -5,3 +5,8 @@
 .menetrendkeret {
     border:  5px solid  white !important
 }
+
+.infopic {
+    max-height: 15rem;
+    max-width: 30rem;
+}
