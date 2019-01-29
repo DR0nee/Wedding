@@ -3,7 +3,8 @@
 }
 
 .menetrendkeret {
-    border:  5px solid  white !important
+    border:  5px solid  white !important;
+    border-radius: 12px;
 }
 
 .infopic {
