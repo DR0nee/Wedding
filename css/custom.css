@@ -16,5 +16,10 @@
     padding-top: 5rem !important;
 }
 
+@media only screen and (max-width: 560px) {
+  .infopic {
+    width: 100%;
+  }
+
 
 h1, h2, h3, .text-intro-wrap .text-intro h2, h4
